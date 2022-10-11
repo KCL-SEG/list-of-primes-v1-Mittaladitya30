@@ -16,4 +16,3 @@ def primes(number_of_primes):
                 break
         i+=1
     return list
-print(primes(3))
